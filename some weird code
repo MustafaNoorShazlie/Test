@@ -9,3 +9,5 @@ another.show()
 
 
 #weird i know
+
+another.remove_thing("IDK")
