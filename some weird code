@@ -5,9 +5,9 @@ from somthing import another_thing
 another = another_thing
 another.add_thing("IDK")
 
-another.show()
-
 
 #weird i know
 
 another.remove_thing("IDK")
+
+another.multiple("Thing")
